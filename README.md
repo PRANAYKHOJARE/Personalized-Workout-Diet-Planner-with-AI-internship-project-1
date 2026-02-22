@@ -60,6 +60,11 @@ Personalized-Workout-Diet-Planner-with-AI-internship-project-1
 ### 🔹 Generated Workout & Diet Plan
 ![App Screenshot 2](screenshots/2.png)
 
+### 🔹 Additional Screenshots
+![Screenshot 3](screenshots/3.png)
+![Screenshot 4](screenshots/4.png)
+![Screenshot 5](screenshots/5.png)
+
 ---
 
 ## ⚙️ Installation & Setup
