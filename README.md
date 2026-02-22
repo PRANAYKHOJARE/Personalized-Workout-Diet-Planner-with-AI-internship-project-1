@@ -66,7 +66,7 @@ Personalized-Workout-Diet-Planner-with-AI-internship-project-1
 ![Screenshot 5](screenshots/5.png)
 
 ---
-
+Live link :- https://personalized-workout-diet-planner-with-ai-internship-project-1.streamlit.app/
 ## ⚙️ Installation & Setup
 
 Follow these steps to run the project locally:
@@ -94,6 +94,7 @@ Entry-Level Software Engineer | Java | React.js | Azure | AI & Cloud
 🔗 GitHub: https://github.com/PRANAYKHOJARE
 
 🔗 LinkedIn: https://www.linkedin.com/in/pranay-khojare-a23505211/
+
 
 ⭐ Acknowledgements
 
